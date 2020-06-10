@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/scanBleDevices"
+        android:title="@string/scan_ble_devices" />
+    <item
+        android:id="@+id/scanBeacons"
+        android:title="@string/scan_beacons" />
+</menu>

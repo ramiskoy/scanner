@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base theme colors -->
+    <color name="colorPrimary">#4768FD</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorAccentOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#3C3C3C</color>
+    <color name="colorStatusBar">#3C54FE</color>
+
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorOnBackground">#000000</color>
+
+</resources>

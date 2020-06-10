@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Scanner</string>
+
+    <string name="scan_ble_devices">Scan BLE devices</string>
+    <string name="scan_beacons">Scan beacons</string>
+
+    <string name="location_permission_title">LOCATION PERMISSION REQUIRED</string>
+    <string name="location_permission_info">Location permission needs to be enabled for Bluetooth Low Energy scanning.</string>
+    <string name="location_permission_action">Grant permission</string>
+
+    <string name="bluetooth_disabled_title">BLUETOOTH DISABLED</string>
+    <string name="bluetooth_disabled_info">The Bluetooth adapter is turned off. Click the button below to enable it.</string>
+    <string name="bluetooth_disabled_action">Enable</string>
+
+</resources>
